@@ -1,5 +1,5 @@
 # osu! most played downloader
-A quickly thrown-together tool for downloading a user's most played maps on osu.
+A quickly thrown-together tool for downloading a user's most played maps on osu. The readme below as well as the original code is from a different author. I'm only expanding on this. I an unable to find the original author at this time.
 
 
 ### Getting started
